@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/howToForm/static/css/main.7acaea2f.css",
-    "main.js": "/howToForm/static/js/main.0f3483d8.js",
+    "main.js": "/howToForm/static/js/main.428b960f.js",
     "index.html": "/howToForm/index.html",
     "main.7acaea2f.css.map": "/howToForm/static/css/main.7acaea2f.css.map",
-    "main.0f3483d8.js.map": "/howToForm/static/js/main.0f3483d8.js.map"
+    "main.428b960f.js.map": "/howToForm/static/js/main.428b960f.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.0f3483d8.js"
+    "static/js/main.428b960f.js"
   ]
 }
